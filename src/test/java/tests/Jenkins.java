@@ -68,6 +68,7 @@ public class Jenkins {
         assertTrue(false);
         System.out.println("deneme");
         System.out.println("deneme");
+        System.out.println("deneme");
     }
 
 
