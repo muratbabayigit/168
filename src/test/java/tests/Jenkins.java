@@ -69,6 +69,7 @@ public class Jenkins {
         System.out.println("deneme");
         System.out.println("deneme");
         System.out.println("deneme");
+        System.out.println("deneme");
     }
 
 
