@@ -72,6 +72,9 @@ public class Jenkins {
         System.out.println("deneme");
     }
 
-
+    @Test
+    void Test16(){
+        assertTrue(true);
+    }
 
 }
